@@ -232,3 +232,7 @@ path = "examples/window/multiple_windows.rs"
 [[example]]
 name = "window_settings"
 path = "examples/window/window_settings.rs"
+
+[[example]]
+name = "editor"
+path = "examples/3d/editor.rs"
